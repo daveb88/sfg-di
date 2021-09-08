@@ -1,5 +1,5 @@
 
-package guru.springframework.sfgdi.services;
+package com.springframework.pets;
 
 public interface PetService {
 
